@@ -5,7 +5,7 @@
 def quickSort(narr, nLen):
 
     pass
-# TO BE CONTINUED 
+# TO BE CONTINUED
 
 
 # Function to input the array
